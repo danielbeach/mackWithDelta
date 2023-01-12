@@ -1,0 +1,2 @@
+mack==0.2.0
+delta-spark==2.2.0
